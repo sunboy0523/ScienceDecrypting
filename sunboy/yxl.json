@@ -21,26 +21,6 @@
       "ext": "سبعة وسبعة"
     },
     {
-      "key": "csp_Kumao",
-      "name": "🐱 酷猫",
-      "type": 3,
-      "api": "csp_ColaCat",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "قط رائع"
-    },
-    {
-      "key": "csp_Buka",
-      "name": "🧼 真不卡",
-      "type": 3,
-      "api": "csp_ColaCat",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "حقا ليس عالقا"
-    },
-    {
       "key": "csp_Auete",
       "name": "🧿 Auete",
       "type": 3,
@@ -59,16 +39,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "السينما والتلفزيون الرديئة"
-    },
-    {
-      "key": "csp_360",
-      "name": "🎾 360",
-      "type": 3,
-      "api": "csp_ColaCat",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "ثلاثة مائة وستون"
     },
     {
       "key": "csp_AliPanSou",
@@ -119,26 +89,6 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "أوبرا"
-    },
-    {
-      "key": "csp_FakeWindow",
-      "name": "🪟 假窗·氛围·白噪声",
-      "type": 3,
-      "api": "csp_ColaCat",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "نافذة كاذبة"
-    },
-    {
-      "key": "csp_Live",
-      "name": "📺 设置直播为首页",
-      "type": 3,
-      "api": "csp_ColaCat",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "تعيين البث المباشر كصفحة رئيسية"
     },
     {
       "key": "push_agent",
